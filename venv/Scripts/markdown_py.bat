@@ -1,0 +1,1 @@
+@"C:\repos\taiga_back\taiga-back\venv\Scripts\python.exe" "C:\repos\taiga_back\taiga-back\venv\Scripts\markdown_py" %*
